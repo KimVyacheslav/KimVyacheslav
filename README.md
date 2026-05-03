@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to my Github profile! 👺
+[![Codewars badge](https://www.codewars.com/users/KimVyacheslav/badges/micro)](https://www.codewars.com/users/KimVyacheslav)
 
 <!--
 **KimVyacheslav/KimVyacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
